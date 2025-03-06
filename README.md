@@ -45,6 +45,7 @@ This project predicts temperature based on various environmental and atmospheric
 - Pandas, NumPy
 - Matplotlib, Seaborn
 - Scikit-learn
+- XGboost
 
 ## Contributing
 Feel free to submit issues or contribute improvements via pull requests!
