@@ -22,7 +22,7 @@ This project predicts temperature based on various environmental and atmospheric
 - `Temperature_2_.ipynb` - Jupyter Notebook containing the full workflow.
 - `train.csv` - Training dataset.
 - `test.csv` - Test dataset.
-- `sample_submission.csv` - Example format for submission.
+- `sample_submission.csv` - Example format for  submission.
 - `submission.csv` - Generated predictions.
 
 ## How to Run
